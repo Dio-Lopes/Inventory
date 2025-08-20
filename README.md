@@ -1,2 +1,2 @@
 # Inventory
-my first ever "real" c++ project!1!!!!
+Learn C++ project, working with classes
